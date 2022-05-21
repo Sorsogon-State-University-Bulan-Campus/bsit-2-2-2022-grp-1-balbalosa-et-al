@@ -7,9 +7,11 @@ these is the project that we create that is all about the newest model of car, t
  # FAQ
 
  1. What is the newest model of car?
+ 
    ~ Over 450 new vehicles for review, specs, feature, and buying advice for 2020, 2021. and 2022 models.
   
  2. what is the top newest model of car?
+
    ~first is 2022 Honda Accord
 
    ~Second is 2021 Mazda Mazda6
